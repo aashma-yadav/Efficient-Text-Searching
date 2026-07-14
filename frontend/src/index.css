@@ -1,0 +1,10 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: #0A0E14;
+  color: #E4E7ED;
+  font-family: 'Space Mono', monospace;
+  min-height: 100vh;
+}
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #12161F; }
+::-webkit-scrollbar-thumb { background: #232837; border-radius: 3px; }
